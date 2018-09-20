@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Deborah's Website</title>
+</head>
+
+<body>
+    <h1> this is a h1 tag!</h1>
+    <h2> this is a h2 tag!</h2>
+    <h3> this is a h3 tag!</h3>
+    <h4> this is a h4 tag!</h4>
+    <h5> this is a h5 tag!</h5>
+
+<p> this is  a paragraph tag!</p>
+<ul>
+    <li> this is a list tag #1</li>
+    <li> #2</li>
+    <ol>
+        <li> thing 1</li>
+        <li> thing 2</li>
+    </ol>
+</ul>
+</body>
